@@ -14,3 +14,9 @@ wget -N https://gitlab.com/rwkgyg/x-ui-yg/raw/main/install.sh && bash install.sh
 ### 脚本源码备份[Gitlab地址](https://gitlab.com/rwkgyg/x-ui-yg)
 ### 参考项目[vaxilu](https://github.com/vaxilu/x-ui),[FranzKafkaYu](https://github.com/FranzKafkaYu/x-ui)
 
+
+以上是大佬的内容。~~~
+以下为学习自用内容，致敬~
+```
+wget -N https://raw.githubusercontent.com/ezmore/x-ui-yg/main/x-ui-yg-kim.sh  && bash x-ui-yg-kim.sh
+```
