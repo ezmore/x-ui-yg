@@ -20,3 +20,9 @@ wget -N https://gitlab.com/rwkgyg/x-ui-yg/raw/main/install.sh && bash install.sh
 ```
 wget -N https://raw.githubusercontent.com/ezmore/x-ui-yg/main/x-ui-yg-kim.sh  && bash x-ui-yg-kim.sh
 ```
+
+2023.11.02install.sh使用方法：
+bash <(wget -qO- https://raw.githubusercontent.com/ezmore/x-ui-yg/main/install.sh 2> /dev/null)
+或者
+bash <(curl -Ls https://raw.githubusercontent.com/ezmore/x-ui-yg/main/install.sh)
+
