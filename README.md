@@ -18,7 +18,7 @@ wget -N https://gitlab.com/rwkgyg/x-ui-yg/raw/main/install.sh && bash install.sh
 以上是大佬的内容。~~~
 以下为学习自用内容，致敬~
 ```
-wget -N https://raw.githubusercontent.com/ezmore/x-ui-yg/main/x-ui-yg.sh  && bash x-ui-yg.sh
+wget -N https://raw.githubusercontent.com/ezmore/x-ui-yg/main/install-yg.sh  && bash install-yg.sh
 ```
 
 2023.11.02install.sh使用方法：
